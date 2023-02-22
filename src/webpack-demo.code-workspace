@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../webpack-demo"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Odin-restaurant"
+	}
+}
