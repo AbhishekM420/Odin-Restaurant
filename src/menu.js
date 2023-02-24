@@ -14,7 +14,7 @@ export function menuPage(){
     menu1.className ="menu1";
     menu.appendChild(menu1);
     const img1 = document.createElement("img");
-    img1.src = "/src/gobi.jpg";
+    img1.src = "src/gobi.jpg";
     img1.setAttribute("height", "250");
     img1.setAttribute("width", "250");
     menu1.appendChild(img1);
